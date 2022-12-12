@@ -6,9 +6,9 @@ A web-based chat application based on MERN Stack and Socket.io which features re
 
 ## Live Application URL
 
-### https://talk-a-tive-rudra.herokuapp.com/
+### https://talk-a-tive-production-4ed9.up.railway.app/
 
-The application is hosted on Heroku
+The application is hosted on Railway
 
 ## Prerequisites
 
