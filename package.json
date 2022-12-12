@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon Server/index.js"
+    "start": "npm Server/index.js"
   },
   "author": "Rudra Sikri",
   "license": "ISC",
@@ -16,6 +16,7 @@
     "express-async-handler": "^1.2.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.4.7",
+    "nodemon": "^2.0.20",
     "socket.io": "^4.5.1"
   }
 }
