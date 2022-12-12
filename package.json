@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "npm Server/index.js"
+    "start": "node Server/index.js"
   },
   "author": "Rudra Sikri",
   "license": "ISC",
