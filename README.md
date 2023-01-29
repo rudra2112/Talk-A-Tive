@@ -6,7 +6,7 @@ A web-based chat application based on MERN Stack and Socket.io which features re
 
 ## Live Application URL
 
-### https://talk-a-tive-production-4ed9.up.railway.app/
+### https://talk-a-tive-xx7n.onrender.com
 
 The application is hosted on Railway
 
